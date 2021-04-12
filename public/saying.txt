@@ -1,5 +1,5 @@
-Paul,黑豆酒外帶;
-Paul,好久沒吃;
-Paul,有想吃的嗎?;
-Paul,吃糕渣;
-Paul,Bo;
+tw_tripleone,黑豆酒外帶;
+tw_tripleone,好久沒吃;
+tw_tripleone,有想吃的嗎?;
+tw_tripleone,吃糕渣;
+tw_tripleone,Bo;
