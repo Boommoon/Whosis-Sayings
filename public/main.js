@@ -1,7 +1,7 @@
 /* global Vue */
 (async () => {
   const gravatar = {
-    Paul: { name: 'Paul', avatar: '0ac9ecaf2e88a82bfa212c7cc773cae1' }
+    tw_tripleone: { name: 'Paul', avatar: '0ac9ecaf2e88a82bfa212c7cc773cae1' }
   }
   const file = await fetch('public/saying.txt')
   const text = await file.text()
